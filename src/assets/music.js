@@ -1,4 +1,4 @@
-const music = [
+ const music = [
     {
         wrapperType: "track",
         kind: "song",
@@ -2048,3 +2048,4 @@ const music = [
         isStreamable: true
     }
 ]
+export default music
